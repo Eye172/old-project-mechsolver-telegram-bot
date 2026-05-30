@@ -1,6 +1,6 @@
 # MechSolver — Engineering Telegram Bot
 
-A Telegram bot for engineering calculations, built in Python in 2022 as a personal learning project. The bot handles 18 formulas across three engineering domains and includes a unit prefix converter and a reference dictionary of mechanical terms.
+A Telegram bot for engineering calculations, built in Python in 2023 as a personal learning project. The bot handles 18 formulas across three engineering domains and includes a unit prefix converter and a reference dictionary of mechanical terms.
 
 ## Features
 
