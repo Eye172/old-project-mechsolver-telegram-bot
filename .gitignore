@@ -1,0 +1,13 @@
+# Token — never commit
+EngineerBotsToken.py
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+
+# Archive
+*.rar
