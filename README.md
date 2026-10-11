@@ -65,3 +65,8 @@ A Telegram bot for engineering calculations, built in Python in 2023 as a person
 ## Notes
 
 This is an archived project from 2022. The code is intentionally left as-is to preserve the original state.
+
+
+---
+
+<sub>Account history: Magitcian172 → Eye172 (same developer). [Authorship note](AUTHORSHIP.md).</sub>
